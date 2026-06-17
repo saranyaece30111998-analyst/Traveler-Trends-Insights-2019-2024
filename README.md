@@ -53,9 +53,10 @@ The insights are presented through an **interactive dashboard** to support touri
 ---
 
 ## 📈 Global Traveler Insights Dashboard
-![Dashboard Screenshot](dashboard.png)
 
-*(Replace `dashboard.png` with your actual dashboard image or screenshots folder path)*
+
+- <img width="1750" height="737" alt="Screenshot 2026-06-17 193239" src="https://github.com/user-attachments/assets/f074d677-7129-475d-bc77-ad6436d42058" />
+
 
 ---
 
