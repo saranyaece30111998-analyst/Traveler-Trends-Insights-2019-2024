@@ -46,17 +46,17 @@ The insights are presented through an **interactive dashboard** to support touri
 
 ## 🔎 Analytical Insights
 ### 📊 Descriptive Analytics
--France records the highest tourist arrivals compared to other countries.
+- France records the highest tourist arrivals compared to other countries.
 
--Trip spending dropped in 2020 but steadily increased from 2021 to 2024.
+- Trip spending dropped in 2020 but steadily increased from 2021 to 2024.
 
--Summer season shows the highest number of trips, while Autumn and Spring are lower.
+- Summer season shows the highest number of trips, while Autumn and Spring are lower.
 
--Air travel has the highest satisfaction level among all transport modes.
+- Air travel has the highest satisfaction level among all transport modes.
 
--Group tours form the largest traveller segment, followed by families and couples.
+- Group tours form the largest traveller segment, followed by families and couples.
 
--Leisure/Tourism is the most common purpose of visit, far ahead of other categories.
+- Leisure/Tourism is the most common purpose of visit, far ahead of other categories.
 
 ### 🧩 Diagnostic Analytics
 -France’s highest tourist arrivals are driven by strong cultural appeal, historic landmarks, and well-developed tourism infrastructure.
