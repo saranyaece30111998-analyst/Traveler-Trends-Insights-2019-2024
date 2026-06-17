@@ -45,10 +45,57 @@ The insights are presented through an **interactive dashboard** to support touri
 ---
 
 ## 🔎 Analytical Insights
-- **Descriptive:** France highest arrivals, summer peak, air travel satisfaction  
-- **Diagnostic:** 2020 drop due to restrictions, recovery post-2021  
-- **Predictive:** Egypt & Thailand emerging, spending to rise beyond 2024  
-- **Prescriptive:** Focus campaigns on France, promote off-season packages, enhance transport services  
+### 📊 Descriptive Analytics
+France records the highest tourist arrivals compared to other countries.
+
+Trip spending dropped in 2020 but steadily increased from 2021 to 2024.
+
+Summer season shows the highest number of trips, while Autumn and Spring are lower.
+
+Air travel has the highest satisfaction level among all transport modes.
+
+Group tours form the largest traveller segment, followed by families and couples.
+
+Leisure/Tourism is the most common purpose of visit, far ahead of other categories.
+
+### 🧩 Diagnostic Analytics
+France’s highest tourist arrivals are driven by strong cultural appeal, historic landmarks, and well-developed tourism infrastructure.
+
+The sharp drop in trip spending in 2020 was caused by global travel restrictions during the pandemic, while recovery after 2021 reflects reopening and pent-up demand.
+
+Summer shows the most trips because of school holidays, favourable weather, and peak vacation periods worldwide.
+
+Air travel satisfaction is highest due to speed, convenience, and improved airline services compared to slower or less reliable transport modes.
+
+Group tours dominate because they offer cost savings, organized itineraries, and safety for international travellers.
+
+Leisure/Tourism leads as the main purpose since most travellers prioritize vacations, sightseeing, and cultural experiences over business or niche travel needs.
+
+### 📈 Predictive Analytics
+France and other top destinations are likely to continue leading in arrivals, but emerging markets like Egypt and Thailand may grow faster.
+
+Global trip spending is expected to keep rising steadily beyond 2024 as international travel demand strengthens.
+
+Summer will remain the busiest season, though off-season travel may gradually increase with more budget and niche packages.
+
+Air travel satisfaction will stay high, but improvements in rail and cruise services could shift some traveller preferences.
+
+Group tours will continue to dominate, but solo and digital nomad travel segments are projected to expand with younger generations.
+
+Leisure/Tourism will remain the primary purpose, while adventure sports, education, and medical tourism are expected to grow as secondary drivers.
+
+### 🛠️ Prescriptive Analytics
+Focus marketing campaigns on France and other top destinations to leverage high tourist arrivals.
+
+Strengthen recovery strategies by offering loyalty programs and discounts to maintain the upward spending trend post-2020.
+
+Promote off-season packages in Autumn and Spring to balance demand and reduce seasonal dependency.
+
+Invest in enhancing air travel experiences further while improving satisfaction in rail, road, and cruise services.
+
+Design tailored packages for group tours and families, while creating niche offerings for solo and backpacker travellers.
+
+Expand leisure tourism experiences with cultural, adventure, and wellness options to diversify beyond traditional sightseeing.
 
 ---
 
