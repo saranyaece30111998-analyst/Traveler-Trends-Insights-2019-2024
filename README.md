@@ -60,5 +60,24 @@ The insights are presented through an **interactive dashboard** to support touri
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## ✅ Conclusion
+Tourism shows resilience post-pandemic:
+- France remains the top destination  
+- Spending trends are rising  
+- Summer dominates seasonal travel  
+- Air travel satisfaction is highest  
+- Group tours & leisure tourism drive demand  
+
+This project highlights **global travel patterns** and provides actionable insights for tourism development.
+
+---
+
+## 📬 Contact
+Developed by **Saranya**  
+*Engineering Graduate & Data Analyst*  
+Skills: Power BI | SQL | Python | Excel
+
 
